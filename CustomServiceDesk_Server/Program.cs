@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ServiceDesk.DataAccess;
+using System;
 
 namespace CustomServiceDesk_Server
 {
@@ -6,7 +7,7 @@ namespace CustomServiceDesk_Server
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var context = new DeskContext();
         }
     }
 }
