@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.DataAccess\\ServiceDesk.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.DataAccess.Abstract\\ServiceDesk.DataAccess.Abstract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.DataAccess.Abstract\\ServiceDesk.DataAccess.Abstract.csproj",
+        "projectName": "ServiceDesk.DataAccess.Abstract",
+        "projectPath": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.DataAccess.Abstract\\ServiceDesk.DataAccess.Abstract.csproj",
+        "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.DataAccess.Abstract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.Domain\\ServiceDesk.Domain.csproj": {
+                "projectPath": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.Domain\\ServiceDesk.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.DataAccess\\ServiceDesk.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.DataAccess\\ServiceDesk.DataAccess.csproj",
+        "projectName": "ServiceDesk.DataAccess",
+        "projectPath": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.DataAccess\\ServiceDesk.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.DataAccess.Abstract\\ServiceDesk.DataAccess.Abstract.csproj": {
+                "projectPath": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.DataAccess.Abstract\\ServiceDesk.DataAccess.Abstract.csproj"
+              },
+              "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.Domain\\ServiceDesk.Domain.csproj": {
+                "projectPath": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.Domain\\ServiceDesk.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.Domain\\ServiceDesk.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.Domain\\ServiceDesk.Domain.csproj",
+        "projectName": "ServiceDesk.Domain",
+        "projectPath": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.Domain\\ServiceDesk.Domain.csproj",
+        "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\home\\source\\repos\\CustomServiceDesk_Server\\ServiceDesk.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

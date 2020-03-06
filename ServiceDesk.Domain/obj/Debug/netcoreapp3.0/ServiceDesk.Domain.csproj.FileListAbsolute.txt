@@ -1,0 +1,8 @@
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.Domain\obj\Debug\netcoreapp3.0\ServiceDesk.Domain.csprojAssemblyReference.cache
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.Domain\obj\Debug\netcoreapp3.0\ServiceDesk.Domain.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.Domain\obj\Debug\netcoreapp3.0\ServiceDesk.Domain.AssemblyInfo.cs
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.Domain\bin\Debug\netcoreapp3.0\ServiceDesk.Domain.deps.json
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.Domain\bin\Debug\netcoreapp3.0\ServiceDesk.Domain.dll
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.Domain\bin\Debug\netcoreapp3.0\ServiceDesk.Domain.pdb
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.Domain\obj\Debug\netcoreapp3.0\ServiceDesk.Domain.dll
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.Domain\obj\Debug\netcoreapp3.0\ServiceDesk.Domain.pdb

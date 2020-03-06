@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\bin\Debug\netcoreapp3.0\ServiceDesk.DataAccess.deps.json
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\bin\Debug\netcoreapp3.0\ServiceDesk.DataAccess.dll
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\obj\Debug\netcoreapp3.0\ServiceDesk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\obj\Debug\netcoreapp3.0\ServiceDesk.DataAccess.AssemblyInfo.cs
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\obj\Debug\netcoreapp3.0\ServiceDesk.DataAccess.csprojAssemblyReference.cache
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\bin\Debug\netcoreapp3.0\ServiceDesk.DataAccess.Abstract.dll
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\bin\Debug\netcoreapp3.0\ServiceDesk.Domain.dll
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\bin\Debug\netcoreapp3.0\ServiceDesk.DataAccess.pdb
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\bin\Debug\netcoreapp3.0\ServiceDesk.DataAccess.Abstract.pdb
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\bin\Debug\netcoreapp3.0\ServiceDesk.Domain.pdb
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\obj\Debug\netcoreapp3.0\ServiceDesk.DataAccess.csproj.CopyComplete
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\obj\Debug\netcoreapp3.0\ServiceDesk.DataAccess.dll
+C:\Users\home\source\repos\CustomServiceDesk_Server\ServiceDesk.DataAccess\obj\Debug\netcoreapp3.0\ServiceDesk.DataAccess.pdb

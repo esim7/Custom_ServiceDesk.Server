@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ServiceDesk.DataAccess.Abstract/1.0.0": {
+        "dependencies": {
+          "ServiceDesk.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ServiceDesk.DataAccess.Abstract.dll": {}
+        }
+      },
+      "ServiceDesk.Domain/1.0.0": {
+        "runtime": {
+          "ServiceDesk.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServiceDesk.DataAccess.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceDesk.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
